@@ -12,7 +12,7 @@ I’m **Shrey Gohil**, a passionate **Computer Science & Engineering student** f
 - 🌍 Based in **Gujarat, India**
 - 💡 Interested in **Web Development, AI, Data Science, and Problem Solving**
 - 📚 Currently learning **Java** and advancing in **Python**
-- 🎯 Goal: **Full Stack Developer & Data Analyst**
+- 🎯 Goal: **AI/ML Developer & Data Analyst**
 - 🌱 Always learning and exploring new technologies
 
 ---
